@@ -7,9 +7,6 @@
         <parameter name="Url" value="https://accounts.google.com/"></parameter>
         <classes>
             <class name="org.example.AppTest">
-                <methods>
-                    <include name="accessWebsite"/>
-                </methods>
             </class>
         </classes>
     </test>
